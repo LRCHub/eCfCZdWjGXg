@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "0.2mm",
+  "base_artist": "大森元貴",
+  "createdAt": "2026-03-03T12:20:47.938007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "0.2mm",
+      "artist": "大森元貴",
+      "has_synced": true,
+      "path": "select/01_0.2mm_大森元貴.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "0.2mm",
+      "artist": "Motoki Ohmori",
+      "has_synced": true,
+      "path": "select/02_0.2mm_Motoki_Ohmori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "0.2mm",
+      "artist": "大森元貴",
+      "has_synced": false,
+      "path": "select/pl_01_0.2mm_大森元貴.txt"
+    }
+  ]
+}
